@@ -5,5 +5,5 @@ every topic forinterview preparation and can also play Quiz of 15+ question
 on every topic.
 
 
-• Exposure: Forfrontend development- HTML CSS, React.js, Bootstrap,
+• Exposure: For frontend development- HTML CSS, React.js, Bootstrap,
 javascript and Mongodb for database
